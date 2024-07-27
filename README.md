@@ -81,6 +81,6 @@ Contributions are welcome! If you have any suggestions or improvements, please f
 For any questions or feedback, please contact:
 
 - **Md Sohag Biswas**: sohagbiswas.2002@gmail.com
-- **GitHub**: [yourusername](https://github.com/yourusername)
+- **GitHub**: [GodMischief](https://github.com/GodMischief)
 
 Thank you for checking out the Budget App! Your contributions and feedback are highly appreciated.
